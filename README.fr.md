@@ -10,6 +10,7 @@ Le loop engineering transforme un LLM générateur de réponses en **système d'
 |---|---|
 | [loop-engineering.md](loop-engineering.md) | Le document de référence. Partie A = socle stratégique, commun à tous les projets. Partie B = template opérationnel. |
 | [TEMPLATE-LOOP.md](TEMPLATE-LOOP.md) | La Partie B extraite en template autonome — à copier pour chaque nouvelle boucle. |
+| [workflow-agentique.md](workflow-agentique.md) | La boucle **macro** : le workflow d'orchestration en 7 étapes qui entoure le loop engineering. Le loop engineering est l'étage **micro** (le moteur d'une tâche) ; ce document est l'étage **macro** (piloter un projet entier avec des agents). |
 | [README.md](README.md) | Ce README en anglais. |
 
 ## Comment l'utiliser

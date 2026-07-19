@@ -10,6 +10,7 @@ Loop engineering turns an LLM from a response generator into an **execution syst
 |---|---|
 | [loop-engineering.md](loop-engineering.md) | The reference document (in French). Part A = the strategic foundation, common to all projects. Part B = the operational template. |
 | [TEMPLATE-LOOP.md](TEMPLATE-LOOP.md) | Part B extracted as a standalone fill-in template — copy it for each new loop. |
+| [workflow-agentique.md](workflow-agentique.md) | The **macro** loop (in French): the 7-step orchestration workflow that wraps loop engineering. Loop engineering is the **micro** layer (the engine of a single task); this document is the **macro** layer (steering a whole project with agents). |
 | [README.fr.md](README.fr.md) | This README in French. |
 
 ## How to use it
